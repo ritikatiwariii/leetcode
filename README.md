@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ritikatiwariii/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ritikatiwariii/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ritikatiwariii/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/ritikatiwariii/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ritikatiwariii/leetcode/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ritikatiwariii/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
