@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ritikatiwariii/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ritikatiwariii/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ritikatiwariii/leetcode/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/ritikatiwariii/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritikatiwariii/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikatiwariii/leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ritikatiwariii/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
