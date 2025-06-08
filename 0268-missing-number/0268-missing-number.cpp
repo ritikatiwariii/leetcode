@@ -10,7 +10,7 @@ public:
            if(nums[n-1]!=n){
             return n;
            }
-        for(int i=1;i<nums.size();i++){
+        for(int i=0;i<nums.size();i++){
            
            
              if(nums[i]!=i ){
