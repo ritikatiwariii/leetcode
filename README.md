@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ritikatiwariii/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ritikatiwariii/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ritikatiwariii/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ritikatiwariii/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritikatiwariii/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ritikatiwariii/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ritikatiwariii/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ritikatiwariii/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ritikatiwariii/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ritikatiwariii/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ritikatiwariii/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ritikatiwariii/leetcode/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ritikatiwariii/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ritikatiwariii/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ritikatiwariii/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Union Find
 |  |
@@ -97,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ritikatiwariii/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
