@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritikatiwariii/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ritikatiwariii/leetcode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/ritikatiwariii/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ritikatiwariii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ritikatiwariii/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ritikatiwariii/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ritikatiwariii/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ritikatiwariii/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/ritikatiwariii/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ritikatiwariii/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ritikatiwariii/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ritikatiwariii/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ritikatiwariii/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## String
