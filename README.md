@@ -106,10 +106,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikatiwariii/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ritikatiwariii/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ritikatiwariii/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ritikatiwariii/leetcode/tree/master/0792-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ritikatiwariii/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ritikatiwariii/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ritikatiwariii/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
