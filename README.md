@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ritikatiwariii/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ritikatiwariii/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ritikatiwariii/leetcode/tree/master/0268-missing-number) |
+| [0503-next-greater-element-ii](https://github.com/ritikatiwariii/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/ritikatiwariii/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritikatiwariii/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ritikatiwariii/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ritikatiwariii/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ritikatiwariii/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/ritikatiwariii/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ritikatiwariii/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ritikatiwariii/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ritikatiwariii/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
