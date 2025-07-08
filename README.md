@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritikatiwariii/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ritikatiwariii/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ritikatiwariii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ritikatiwariii/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ritikatiwariii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ritikatiwariii/leetcode/tree/master/0054-spiral-matrix) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ritikatiwariii/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ritikatiwariii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ritikatiwariii/leetcode/tree/master/0141-linked-list-cycle) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritikatiwariii/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ritikatiwariii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ritikatiwariii/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritikatiwariii/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ritikatiwariii/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ritikatiwariii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ritikatiwariii/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ritikatiwariii/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ritikatiwariii/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -169,5 +173,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ritikatiwariii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ritikatiwariii/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
