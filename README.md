@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritikatiwariii/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ritikatiwariii/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ritikatiwariii/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ritikatiwariii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ritikatiwariii/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ritikatiwariii/leetcode/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ritikatiwariii/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ritikatiwariii/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ritikatiwariii/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ritikatiwariii/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ritikatiwariii/leetcode/tree/master/0229-majority-element-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ritikatiwariii/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ritikatiwariii/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ritikatiwariii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ritikatiwariii/leetcode/tree/master/0141-linked-list-cycle) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritikatiwariii/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
